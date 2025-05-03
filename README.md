@@ -1,4 +1,5 @@
 Fall Detection System using ESP8266 and MPU6050
+
 This project implements a real-time fall detection system using the ESP8266 NodeMCU and MPU6050 (accelerometer + gyroscope) sensor. When a fall is detected, it triggers an alert via IFTTT webhooks to notify a caregiver or emergency service.
 
 📦 Features
